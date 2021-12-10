@@ -30,7 +30,7 @@ hr {
 #container {
   width: 420px;
   padding: 10px;
-  margin: auto;
+  margin: -10px auto 20px;
   background: #080d13;
   border: #14417c 1px solid;
   border-radius: 10px;
