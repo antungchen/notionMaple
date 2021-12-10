@@ -29,9 +29,10 @@ hr {
 }
 
 #container {
-  width: 420px;
+  width: 100%;
+  height:100%;
   padding: 10px;
-  margin: auto;
+  margin: 0,auto;
   background: #080d13;
   border: #14417c 1px solid;
   border-radius: 10px;
